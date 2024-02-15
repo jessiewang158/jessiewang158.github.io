@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Millennial</title>
+		<description>a minimalist Jekyll theme for running a blog or publication</description>
+		<link></link>
+		<atom:link href="/rss-feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Hey there!</title>
+				
+					<dc:creator>Jessie Wang</dc:creator>
+				
+				
+					<description>&lt;p&gt;My name is Jessie. I’m someone who loves exploring new horizons, both in the tech world and in everyday life. Born in a small town in China and now living in Canada, my journey has taken me from studying chemical engineering to diving deep into computer science. My goal? To drive digital transformation, help others embrace and integrate the latest technology.&lt;/p&gt;
+</description>
+				
+				<pubDate>Wed, 14 Feb 2024 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/about-the-author</link>
+				<guid isPermaLink="true">http://localhost:4000/about-the-author</guid>
+			</item>
+		
+			<item>
+				<title>Projects</title>
+				
+					<dc:creator>Jessie Wang</dc:creator>
+				
+				
+					<description>&lt;p&gt;These projects primarily serve as vehicles for self-education and enjoyment, rather than being highly sophisticated endeavors.&lt;/p&gt;
+</description>
+				
+				<pubDate>Tue, 13 Feb 2024 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/personal-projects</link>
+				<guid isPermaLink="true">http://localhost:4000/personal-projects</guid>
+			</item>
+		
+	</channel>
+</rss>
